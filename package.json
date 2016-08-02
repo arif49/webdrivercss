@@ -15,7 +15,7 @@
     "url": "git://github.com/arif49/webdrivercss.git"
   },
   "dependencies": {
-    "async": "^2.0.0-rc.6",
+    "async": "^2.0.1",
     "deepmerge": "^0.2.10",
     "glob": "^7.0.5",
     "gm": "^1.22.0",
@@ -34,7 +34,7 @@
     "mocha": "^2.2.4",
     "mocha-istanbul": "^0.2.0",
     "nock": "^8.0.0",
-    "webdriverio": "^4.1.1"
+    "webdriverio": "^4.2.3"
   },
   "keywords": [
     "webdriverjs",
